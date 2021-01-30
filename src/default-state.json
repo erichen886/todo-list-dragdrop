@@ -1,0 +1,56 @@
+{
+  "id": "1",
+  "title": "The One and Only Kanban Board",
+  "lists": [
+    {
+      "cards": [
+        {
+          "id": "1558196597470",
+          "title": "My attempt",
+          "description": "Trying new things helps you learn!"
+        },
+        {
+          "id": "1558196612656",
+          "title": "First build in pure react with hooks",
+          "description": "The next goal will be to add in context and convert to Redux"
+        }
+      ],
+      "id": "1558196567543",
+      "title": "Tasks"
+    },
+    {
+      "cards": [
+        {
+          "id": "1558196631373",
+          "title": "Normalizing Data",
+          "description": "Remember to look into normalizing and denormalizing data"
+        }
+      ],
+      "id": "1558196569460",
+      "title": "In Progress"
+    },
+    {
+      "cards": [
+        {
+          "id": "1558196662573",
+          "title": "Look into best practices and making things efficient",
+          "description": "Things like react memo, lazy loading, etc can make the webapp faster"
+        }
+      ],
+      "id": "1558196570597",
+      "title": "Completed"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Eric C.",
+      "email": "eric@mail.com"
+    },
+    {
+      "id": "2",
+      "name": "friend",
+      "email": "friend@mail.com"
+    }
+  ]
+}
